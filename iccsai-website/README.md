@@ -1,11 +1,37 @@
 
 # ICCSAI Website
 
-This project is a website for the International Conference on Computer Science and Artificial Intelligence (ICCSAI).
+## Project Name
+International Conference on Computer Science and Artificial Intelligence (ICCSAI) Website
 
-## Description
+## Team Name
+Web Wizards
 
-The ICCSAI website is designed to provide information about the conference, including details about keynote speakers, the conference schedule, and registration. It features a responsive design with a dark mode toggle for improved user experience.
+## Team Leader
+ABHINAV PAL
+
+## Team Members
+- TANISHA KUMARI
+- PRIYANSHU
+- ABDUS SAMAD
+- ASHISH NAYAK
+
+## Project Description
+The ICCSAI website is designed to provide comprehensive information about the International Conference on Computer Science and Artificial Intelligence. It features a responsive design with sections for conference details, keynote speakers, schedule, and registration. The website includes a dark mode toggle for enhanced user experience and accessibility.
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/abhinavpal6390/iccsai-website.git
+   ```
+
+2. Navigate to the project directory:
+   ```
+   cd iccsai-website
+   ```
+
+3. Open `index.html` in a web browser to view the website locally.
 
 ## Features
 
@@ -22,34 +48,14 @@ The ICCSAI website is designed to provide information about the conference, incl
 - `styles.css`: CSS file for styling the website
 - `script.js`: JavaScript file for interactive features
 
-## Setup
-
-1. Clone the repository or download the files.
-2. Open `index.html` in a web browser to view the website.
-
-## Usage
-
-- Navigate through the website using the menu items in the header.
-- Toggle between light and dark modes using the theme toggle button in the header.
-- Fill out the registration form to register for the conference.
-
 ## Customization
 
-- Replace placeholder images with actual conference logos and banners.
-- Update the content in each section with real conference information.
+- Replace placeholder images in the `img` folder with actual conference logos and banners.
+- Update the content in each section of `index.html` with real conference information.
 - Add actual speaker information and conference schedule.
 
-## Dependencies
-
-This project uses vanilla HTML, CSS, and JavaScript. No external libraries or frameworks are required.
-
-## Browser Support
-
-The website is designed to work on modern web browsers, including:
-- Google Chrome
-- Mozilla Firefox
-- Safari
-- Microsoft Edge
+## Live Deployment Link
+[https://iccsai-conference.vercel.app](https://iccsai-conference.vercel.app)
 
 ## Contributing
 
